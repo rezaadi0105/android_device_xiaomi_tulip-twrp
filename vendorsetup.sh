@@ -1,0 +1,2 @@
+add_lunch_combo omni_tulip-eng
+add_lunch_combo omni_tulip-userdebug
